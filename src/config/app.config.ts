@@ -1,6 +1,6 @@
 import uirouter, { UrlService } from "@uirouter/angularjs";
 
-import { HomeModule } from "../window-states/home/home.module";
+import { HomeModule } from "../views/home/home.module";
 import { AppUtilsService } from "../app.utils";
 
 export class AppConfig {
