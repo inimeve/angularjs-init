@@ -75,6 +75,7 @@ module.exports = {
 
   devServer: {
     contentBase: './dist',
-    publicPath: '/app/'
+    publicPath: '/app/',
+    port: 8081
   }
 };
