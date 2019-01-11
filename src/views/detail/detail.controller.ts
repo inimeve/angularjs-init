@@ -1,9 +1,8 @@
 import { MathService } from "../../utils/math.service";
 
+export class DetailController {
 
-export class HomeController {
-
-    static NAME = 'HomeController';
+    static NAME = 'DetailController';
 
     private static $inject: string[] = ['mathService'];
 
